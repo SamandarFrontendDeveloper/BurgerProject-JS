@@ -1,21 +1,4 @@
-// let user = {
-//     name: 'John',
-//     surname: "Smith",
-//     get fullName(){
-//         return `${this.name} ${this.surname}`;
-//     },
-//     set fullName(val){
-//         let arr = val.split(' ');
-//         this.name = arr[0];
-//         this.surname = arr[1];
-//     }
-// }
 
-// console.log(user);
-
-// user.fullName = "Вася Пупкин";
-
-// console.log(user);
 
 const product = {
     plainBurger: {
